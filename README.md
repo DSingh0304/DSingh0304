@@ -5,7 +5,7 @@
 
 - ⚡ I’m currently learning **AI / ML**
 
-- 👨‍💻 All of my projects & resume are available at [deepshekhar.dev](deepshekhar.dev)
+- 👨‍💻 All of my projects & resume are available at [deepshekhar.dev](https://deepshekhar.dev)
 
 - 📫 How to reach me **deepshekharsinghin@gmail.com**
 
