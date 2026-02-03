@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsingh0304&label=Profile%20views&color=0e75b6&style=flat" alt="dsingh0304" /> </p>
 
-- ⚡ I’m currently learning **AI / ML**
+- ⚡ I’m currently learning **Backend & System Design**
 
 - 👨‍💻 All of my projects & resume are available at [deepshekhar.dev](https://deepshekhar.dev)
 
