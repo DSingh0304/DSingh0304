@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects & resume are available at [deepshekhar.dev](https://deepshekhar.dev)
 
-- 📫 How to reach me **deepshekharsinghin@gmail.com**
+- 📫 How to reach me **work.deep.in@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
