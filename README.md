@@ -33,7 +33,7 @@ I'm a passionate developer from **Lucknow, Uttar Pradesh**, currently deep-divin
 - 🌱 Learning **System Design**, advanced **Go**, and **Cloud Architecture**
 - 🤝 Open to collaborating on interesting backend/open-source projects
 - 📫 Reach me at **work.deep.in@gmail.com**
-- 🌐 Check out my work at **[deepshekhar.dev](https://deepshekhar.dev)**
+- 🌐 Check out my work at **[deepshekhar.site](https://deepshekhar.site)**
 
 ---
 
