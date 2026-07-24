@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://deepshekhar.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-deepshekhar.dev-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-deepshekhar.site-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/deepshekharsingh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-deepshekharsingh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
