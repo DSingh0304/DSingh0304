@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://deepshekhar.dev" target="_blank">
+  <a href="https://deepshekhar.site" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-deepshekhar.dev-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/deepshekharsingh" target="_blank">
