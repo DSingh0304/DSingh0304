@@ -95,7 +95,7 @@ I'm a passionate developer from **Lucknow, Uttar Pradesh**, currently deep-divin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dsingh0304&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-bay-ten.vercel.app/?user=dsingh0304&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
