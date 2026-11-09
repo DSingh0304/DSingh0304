@@ -33,26 +33,6 @@ I'm a backend-focused developer from **Lucknow, Uttar Pradesh**, building scalab
   <img src="https://skillicons.dev/icons?i=git,postman,pytorch,sklearn,arduino,androidstudio,html&theme=dark" alt="Tools and ML" />
 </p>
 
-## Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dsingh0304/dsingh0304/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dsingh0304/dsingh0304/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man eating the contribution graph" src="https://raw.githubusercontent.com/dsingh0304/dsingh0304/output/pacman-contribution-graph.svg" />
-  </picture>
-</p>
-
-<!--
-  Prefer the snake? Replace the <picture> block above with this one:
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dsingh0304/dsingh0304/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dsingh0304/dsingh0304/output/snake.svg" />
-    <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/dsingh0304/dsingh0304/output/snake.svg" />
-  </picture>
--->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,45:0b3a5b,100:0d1117&height=120&section=footer" width="100%" alt="" />
 </p>
